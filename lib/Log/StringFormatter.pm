@@ -109,6 +109,10 @@ format and serialize given values
 
 =back
 
+=head1 SEE ALSO
+
+L<Log::Minimal>, L<String::Flogger>
+
 =head1 LICENSE
 
 Copyright (C) Masahiro Nagano.

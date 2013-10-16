@@ -25,6 +25,10 @@ Log::StringFormatter's formatter also can serialize non-scalar variables.
 
     format and serialize given values
 
+# SEE ALSO
+
+[Log::Minimal](http://search.cpan.org/perldoc?Log::Minimal), [String::Flogger](http://search.cpan.org/perldoc?String::Flogger)
+
 # LICENSE
 
 Copyright (C) Masahiro Nagano.
