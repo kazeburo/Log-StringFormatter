@@ -80,7 +80,7 @@ __END__
 
 =head1 NAME
 
-Log::StringFormatter - It's new $module
+Log::StringFormatter - string formatter for logs
 
 =head1 SYNOPSIS
 
