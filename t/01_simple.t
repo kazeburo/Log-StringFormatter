@@ -18,4 +18,6 @@ for my $test (@tests) {
     is ( stringf(@{$test->[0]}), $test->[1] );
 }
 
+is( stringf({"a" => 1, "b" => 2}), "{'a' => 1,'b' => 2}" );
+
 done_testing;
